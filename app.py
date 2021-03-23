@@ -16,7 +16,7 @@ access_token_secret = os.environ.get("access_token_secret")
 
 
 @app.route('/', methods=['GET', 'POST'])
-def app():
+def index():
 
     if request.method == 'POST':
             if request.form.get('ONLINE') == 'ONLINE':
