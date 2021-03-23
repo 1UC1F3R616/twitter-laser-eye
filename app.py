@@ -64,9 +64,5 @@ def app():
         print("No Post Back Call")
     return render_template("index.html")
 
-port=os.environ.get("PORT")
-if port is None or port == "":
-    port = 3000
-
 if __name__ == '__main__':
-    app.run(app, host='0.0.0.0', port=port) # when running on heroku
+    app.run() # when running on heroku
