@@ -13,9 +13,10 @@ Let your friends know when you are online and offline
 
 ## Setup
 - Fork this repo and replace online.jpg and offline.jpg with your own images. To get laser-eyes use [this](https://memed.io/laser-eyes-meme-maker)
+- Now before you proceed further update readme by changing the link of deploy button from `https://github.com/1UC1F3R616/twitter-laser-eye/tree/master` to something like `https://github.com/nightlyhacker/twitter-laser-eye/tree/master` where nightlyhacker has to be replaced with your GitHub username.
 - Replace your bio [here](https://github.com/1UC1F3R616/twitter-laser-eye/blob/master/app.py) or comment out bio/description update code which is `api.update_profile(description=description)`
 - Get `consumer_key`, `consumer_secret`, `access_token`, `access_token_secret` by creating your Twitter App from [here](https://developer.twitter.com/en/portal/apps/new)
-- Click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/1UC1F3R616/twitter-laser-eye/tree/master)
+- (You must update this link here before you click or else my image will be used) Click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/1UC1F3R616/twitter-laser-eye/tree/master)
 - Choose a random unpredictable App-Name and click 'Deploy app'
 - Click 'manage app' and in settings click 'Reveal Config Vars'. Here add above 4 secrets with key-name as provided here and value is unique to every app.
 - Click 'More' and hit 'Restart all dynos'
