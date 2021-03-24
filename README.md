@@ -45,3 +45,4 @@ Also my Twitter usage has dropped by more than 50% atleast, possible explainatio
 </details>
 
 ---------------------------------------------------------------------------------------
+https://img.shields.io/twitter/follow/1R616?style=social
