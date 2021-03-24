@@ -1,0 +1,7 @@
+{
+  "name": "Twitter Live Status",
+  "description": "Controller to switch between online and offline mode in a few seconds just by a single click on any device",
+  "repository": "https://github.com/1UC1F3R616/twitter-laser-eye",
+  "logo": "",
+  "keywords": ["twitter", "online", "offline"]
+}
