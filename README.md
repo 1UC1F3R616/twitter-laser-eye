@@ -24,11 +24,16 @@ Also my Twitter usage has dropped by more than 50% atleast, possible explainatio
 - Now you can visit your created web-app which is your controller, if you are getting 500 for some reason then check if all steps are done rightly or create an issue with proper error screenshot of logs which you can find inside 'More' --> 'View logs'
 
 ## Help
-- [YT Video on how to setup]()
-- [YT Video on Sample Usage]()
+- [YT Video on how to setup](https://youtu.be/qnNPiwm31pY?t=36)
+- [YT Video on Sample Usage](https://www.youtube.com/watch?v=qnNPiwm31pY)
 
 ### Note
 - Change your timezone because default is set to Asia/Kolkata. [Here](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568) is a complete list.
+
+### More
+- I could use selenium also, in which I would have to be using my Twitter in Selenium Session and rest of the things could be handled by the code but that would not be ideal as I/we use on mobile majorly.
+- Sugessions are always welcomed
+
 ---------------------------------------------------------------------------------------
 
 <details close>
@@ -38,3 +43,5 @@ Also my Twitter usage has dropped by more than 50% atleast, possible explainatio
 ![IMG_1495](https://user-images.githubusercontent.com/41824020/112268930-b804ab80-8c9d-11eb-8ee7-b2cbc8e50e43.jpg)
 
 </details>
+
+---------------------------------------------------------------------------------------
