@@ -3,6 +3,7 @@ Let your friends know when you are online and offline
 - Laser-light eyes when online
 - Last seen is mentioned in user bio
 
+Also my Twitter usage has dropped by more than 50% atleast, possible explaination is that no one will feel being ignored by me when am offline and also the self-realization in unconscious mind and some other reasons.Anixety k1ll3r I may say xD.
 
 <p align="center">
 <img src="https://pbs.twimg.com/media/ExLWFfpVcAcj6c6?format=jpg&name=900x900" width=900 height=250>
