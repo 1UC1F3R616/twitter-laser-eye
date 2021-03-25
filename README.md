@@ -13,7 +13,7 @@ Also my Twitter usage has dropped by more than 50% atleast, possible explainatio
 </p>
 
 ## Setup
-- Fork this repo and replace online.jpg and offline.jpg with your own images. To get laser-eyes use [this](https://memed.io/laser-eyes-meme-maker)
+- Fork this repo (or proceed with clone what many others are doing, seeing insighs) and replace online.jpg and offline.jpg with your own images. To get laser-eyes use [this](https://memed.io/laser-eyes-meme-maker)
 - Now before you proceed further update readme by changing the link of deploy button from `https://github.com/1UC1F3R616/twitter-laser-eye/tree/master` to something like `https://github.com/nightlyhacker/twitter-laser-eye/tree/master` where nightlyhacker has to be replaced with your GitHub username.
 - Replace your bio [here](https://github.com/1UC1F3R616/twitter-laser-eye/blob/master/app.py) or comment out bio/description update code which is `api.update_profile(description=description)`
 - Get `consumer_key`, `consumer_secret`, `access_token`, `access_token_secret` by creating your Twitter App from [here](https://developer.twitter.com/en/portal/apps/new)
