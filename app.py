@@ -35,7 +35,7 @@ def index():
                 
                 # updating the profile picture
                 api.update_profile_image(filename)
-                description = "InfoSec | this too shall pass. Online"
+                description = "Student | Learner | Developer | InfoSec | Trader (Online)"
                 api.update_profile(description=description)
                 print("ONLINE")
 
@@ -54,7 +54,7 @@ def index():
                 
                 # updating the profile picture
                 api.update_profile_image(filename)
-                description = "InfoSec | this too shall pass. Last-Online: {}".format(datetime.now(pytz.timezone('Asia/Kolkata')).strftime("%d-%m-%y %H:%M:%S"))
+                description = "Student | Learner | Developer | InfoSec | Trader (Last-Online: {})".format(datetime.now(pytz.timezone('Asia/Kolkata')).strftime("%d-%m-%y %H:%M:%S"))
                 api.update_profile(description=description)
                 print("OFFLINE")
             else:
